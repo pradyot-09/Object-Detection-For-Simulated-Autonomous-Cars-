@@ -7,6 +7,7 @@ Artificial Intelligence has evolved through the years to have applications in ne
 
 The research paper has been published here : http://www.ijaconline.com/object-detction-simulated-autonomous-cars/
 
-![alt text](https://github.com/pradyot-09/Object-Detection-For-Simulated-Autonomous-Cars-/blob/master/2019-09-29%20png)
+![alt text](https://github.com/pradyot-09/Object-Detection-For-Simulated-Autonomous-Cars-/blob/master/2019-09-29.png)
+
 
 ![alt text](https://github.com/pradyot-09/Object-Detection-For-Simulated-Autonomous-Cars-/blob/master/2019-09-29%20(1).png)
